@@ -5,7 +5,6 @@
  * @format
  * @flow strict-local
  */
-
 import React, {Component} from 'react';
 import {
     Dimensions,
